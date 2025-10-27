@@ -10,59 +10,59 @@ import json
 import time
 
 # Token usage tracker
-class TokenUsageTracker:
-    def __init__(self):
-        self.total_tokens = 0
-        self.total_prompt_tokens = 0
-        self.total_completion_tokens = 0
-        self.call_count = 0
-        self.call_history = []
+# class TokenUsageTracker:
+#     def __init__(self):
+#         self.total_tokens = 0
+#         self.total_prompt_tokens = 0
+#         self.total_completion_tokens = 0
+#         self.call_count = 0
+#         self.call_history = []
     
-    def add_usage(self, prompt_tokens, completion_tokens, context=""):
-        self.call_count += 1
-        self.total_prompt_tokens += prompt_tokens
-        self.total_completion_tokens += completion_tokens
-        self.total_tokens += (prompt_tokens + completion_tokens)
+#     def add_usage(self, prompt_tokens, completion_tokens, context=""):
+#         self.call_count += 1
+#         self.total_prompt_tokens += prompt_tokens
+#         self.total_completion_tokens += completion_tokens
+#         self.total_tokens += (prompt_tokens + completion_tokens)
         
-        call_info = {
-            'call_number': self.call_count,
-            'context': context,
-            'prompt_tokens': prompt_tokens,
-            'completion_tokens': completion_tokens,
-            'total_tokens': prompt_tokens + completion_tokens
-        }
-        self.call_history.append(call_info)
+#         call_info = {
+#             'call_number': self.call_count,
+#             'context': context,
+#             'prompt_tokens': prompt_tokens,
+#             'completion_tokens': completion_tokens,
+#             'total_tokens': prompt_tokens + completion_tokens
+#         }
+#         self.call_history.append(call_info)
         
-        print(f"\n[TOKEN USAGE - Call #{self.call_count}] {context}")
-        print(f"  Prompt tokens: {prompt_tokens}")
-        print(f"  Completion tokens: {completion_tokens}")
-        print(f"  Total this call: {prompt_tokens + completion_tokens}")
-        print(f"  Cumulative total: {self.total_tokens}\n")
+#         print(f"\n[TOKEN USAGE - Call #{self.call_count}] {context}")
+#         print(f"  Prompt tokens: {prompt_tokens}")
+#         print(f"  Completion tokens: {completion_tokens}")
+#         print(f"  Total this call: {prompt_tokens + completion_tokens}")
+#         print(f"  Cumulative total: {self.total_tokens}\n")
     
-    def print_summary(self):
-        print("\n" + "="*60)
-        print("TOKEN USAGE SUMMARY")
-        print("="*60)
-        print(f"Total API Calls: {self.call_count}")
-        print(f"Total Prompt Tokens: {self.total_prompt_tokens}")
-        print(f"Total Completion Tokens: {self.total_completion_tokens}")
-        print(f"Total Tokens: {self.total_tokens}")
-        print(f"Average Tokens per Call: {self.total_tokens / self.call_count if self.call_count > 0 else 0:.2f}")
-        print("="*60)
+#     def print_summary(self):
+#         print("\n" + "="*60)
+#         print("TOKEN USAGE SUMMARY")
+#         print("="*60)
+#         print(f"Total API Calls: {self.call_count}")
+#         print(f"Total Prompt Tokens: {self.total_prompt_tokens}")
+#         print(f"Total Completion Tokens: {self.total_completion_tokens}")
+#         print(f"Total Tokens: {self.total_tokens}")
+#         print(f"Average Tokens per Call: {self.total_tokens / self.call_count if self.call_count > 0 else 0:.2f}")
+#         print("="*60)
         
-        if self.call_history:
-            print("\nDetailed Call History:")
-            for call in self.call_history:
-                print(f"  Call {call['call_number']}: {call['context']}")
-                print(f"    Tokens: {call['total_tokens']} (Prompt: {call['prompt_tokens']}, Completion: {call['completion_tokens']})")
-        print()
+#         if self.call_history:
+#             print("\nDetailed Call History:")
+#             for call in self.call_history:
+#                 print(f"  Call {call['call_number']}: {call['context']}")
+#                 print(f"    Tokens: {call['total_tokens']} (Prompt: {call['prompt_tokens']}, Completion: {call['completion_tokens']})")
+#         print()
 
 def init_gemini_client():
     """
     Initializes and returns a LangChain ChatGoogleGenerativeAI client.
     """
     key = os.getenv("GOOGLE_API_KEY")
-    return ChatGoogleGenerativeAI(model="gemini-2.5-pro", temperature=0.7)
+    return ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.7)
     
 # --- Game Data ---
 TYPE_EFFECTIVENESS = {
@@ -80,17 +80,17 @@ MOVES = {
     'Tackle': {'power': 40, 'type': 'Normal', 'accuracy': 100, 'category': 'Physical', 'effect': None},
     'Quick Attack': {'power': 40, 'type': 'Normal', 'accuracy': 100, 'category': 'Physical', 'effect': None},
     'Scratch': {'power': 40, 'type': 'Normal', 'accuracy': 100, 'category': 'Physical', 'effect': None},
-    'Vine Whip': {'power': 45, 'type': 'Grass', 'accuracy': 100, 'category': 'Physical', 'effect': None},
-    'Razor Leaf': {'power': 55, 'type': 'Grass', 'accuracy': 95, 'category': 'Physical', 'effect': None},
+    'Vine Whip': {'power': 45, 'type': 'Grass', 'accuracy': 95, 'category': 'Physical', 'effect': None},
+    'Razor Leaf': {'power': 55, 'type': 'Grass', 'accuracy': 85, 'category': 'Physical', 'effect': None},
     'Solar Beam': {'power': 120, 'type': 'Grass', 'accuracy': 70, 'category': 'Special', 'effect': None},
     'Ember': {'power': 40, 'type': 'Fire', 'accuracy': 100, 'category': 'Special', 'effect': ('burn', 10)},
-    'Flamethrower': {'power': 90, 'type': 'Fire', 'accuracy': 85, 'category': 'Special', 'effect': ('burn', 10)},
+    'Flamethrower': {'power': 90, 'type': 'Fire', 'accuracy': 60, 'category': 'Special', 'effect': ('burn', 10)},
     'Fire Punch': {'power': 75, 'type': 'Fire', 'accuracy': 90, 'category': 'Physical', 'effect': ('burn', 10)},
     'Water Gun': {'power': 40, 'type': 'Water', 'accuracy': 100, 'category': 'Special', 'effect': None},
-    'Bubblebeam': {'power': 65, 'type': 'Water', 'accuracy': 100, 'category': 'Special', 'effect': None},
+    'Bubblebeam': {'power': 65, 'type': 'Water', 'accuracy': 65, 'category': 'Special', 'effect': None},
     'Hydro Pump': {'power': 110, 'type': 'Water', 'accuracy': 75, 'category': 'Special', 'effect': None},
     'Thunder Shock': {'power': 40, 'type': 'Electric', 'accuracy': 100, 'category': 'Special', 'effect': ('paralyze', 10)},
-    'Thunderbolt': {'power': 90, 'type': 'Electric', 'accuracy': 85, 'category': 'Special', 'effect': ('paralyze', 10)},
+    'Thunderbolt': {'power': 90, 'type': 'Electric', 'accuracy': 60, 'category': 'Special', 'effect': ('paralyze', 10)},
     'Thunder': {'power': 110, 'type': 'Electric', 'accuracy': 65, 'category': 'Special', 'effect': ('paralyze', 30)},
     'Peck': {'power': 35, 'type': 'Flying', 'accuracy': 100, 'category': 'Physical', 'effect': None},
     'Wing Attack': {'power': 60, 'type': 'Flying', 'accuracy': 100, 'category': 'Physical', 'effect': None},
@@ -134,7 +134,7 @@ POKEMON_DATA = {
     'Ekans':      {'type': 'Poison',  'hp': 135, 'atk': 60,  'def': 44,  'sp_atk': 40, 'sp_def': 54, 'speed': 55, 'moves': ['Bite', 'Tackle', 'Poison Sting']},
     'Dratini':    {'type': 'Dragon',  'hp': 141, 'atk': 64,  'def': 45,  'sp_atk': 50, 'sp_def': 50, 'speed': 50, 'moves': ['Bite', 'Dragon Claw', 'Water Gun']},
 }
-# --- AI System Prompt using LangChain ---
+
 TYPE_CHART_TEXT = "\\n".join([
     f"**{atype}** attacks are:\\n" +
     f"  - Super effective against: {', '.join([f'{t} (x2)' for t, m in eff.items() if m == 2.0])}\\n" +
@@ -273,10 +273,10 @@ class Player:
 
 
 class AI(Player):
-    def __init__(self, name, client, token_tracker):
+    def __init__(self, name, client,):
         super().__init__(name)
         self.client = client
-        self.token_tracker = token_tracker
+       
 
     def choose_pokemon(self):
         for pokemon in self.team:
@@ -291,20 +291,10 @@ class AI(Player):
             HumanMessage(content=human_prompt)
         ]
         
-        # Track token usage
+        
         response = self.client.invoke(messages)
         
-        # Extract token usage from response metadata
-        print(response.usage_metadata)
-        usage = response.response_metadata
-        # print(usage)
-        prompt_tokens = usage.get('prompt_token_count', 0)
-        completion_tokens = usage.get('candidates_token_count', 0)
-        self.token_tracker.add_usage(
-            prompt_tokens, 
-            completion_tokens, 
-            f"AI Decision Turn (vs {player_pokemon.name})"
-        )
+    
         
         try:
             cleaned_response = response.content.strip().replace('`', '').replace('json', '')
@@ -363,13 +353,13 @@ Now, provide your decision for this turn. Answer only with the JSON object as sp
 
 
 class Game:
-    def __init__(self, player: Player, ai: AI, commentator_client, token_tracker, silent=False):
+    def __init__(self, player: Player, ai: AI, commentator_client, silent=False):
         self.player = player
         self.ai = ai
         self.winner = None
         self.has_ended = False
         self.commentator_client = commentator_client
-        self.token_tracker = token_tracker
+      
         self.silent = silent
 
     def get_commentary(self, attacker_name, defender_name, move_name, damage, effectiveness):
@@ -381,7 +371,7 @@ class Game:
         self.player.add_pokemon(Pokemon('Charmander'))
         self.player.add_pokemon(Pokemon('Pikachu'))
         self.ai.add_pokemon(Pokemon('Squirtle'))
-        # self.ai.add_pokemon(Pokemon('Bulbasaur'))
+        self.ai.add_pokemon(Pokemon('Bulbasaur'))
 
         player_pokemon = self.player.choose_pokemon()
         ai_pokemon = self.ai.choose_pokemon()
@@ -487,16 +477,16 @@ class Game:
 
 if __name__ == '__main__':
     # Initialize token tracker
-    token_tracker = TokenUsageTracker()
+   
     
     player = Player("Ash")
     client = init_gemini_client()
     
-    ai = AI("Brock", client, token_tracker)
-    game = Game(player, ai, client, token_tracker)
+    ai = AI("Brock", client,)
+    game = Game(player, ai, client, )
     
     try:
         game.start()
     finally:
         # Print token usage summary at the end
-        token_tracker.print_summary()
+       pass
