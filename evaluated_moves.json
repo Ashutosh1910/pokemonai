@@ -14,10 +14,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -34,10 +34,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -54,10 +54,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -74,10 +74,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 7,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -94,10 +94,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -110,9 +110,9 @@
             "PP": 10
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 3,
-            "overall_score": 3.5,
+            "creativity": 2,
+            "originality": 1,
+            "overall_score": 1,
             "verdict": "reject"
          }
       },
@@ -130,10 +130,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -146,10 +146,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -166,10 +166,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -182,10 +182,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 2,
+            "originality": 1,
+            "overall_score": 1,
+            "verdict": "reject"
          }
       },
       {
@@ -202,10 +202,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -218,10 +218,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -238,10 +238,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -254,10 +254,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -270,10 +270,10 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -290,10 +290,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -310,10 +310,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 7,
-            "originality": 6,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -326,9 +326,9 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 3,
-            "overall_score": 3.5,
+            "creativity": 2,
+            "originality": 1,
+            "overall_score": 1,
             "verdict": "reject"
          }
       },
@@ -342,10 +342,10 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -358,10 +358,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -378,10 +378,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -398,10 +398,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -418,10 +418,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -438,10 +438,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 7,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -458,10 +458,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 7,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -474,9 +474,9 @@
             "PP": 25
          },
          "evaluation": {
-            "creativity": 3,
-            "originality": 2,
-            "overall_score": 2,
+            "creativity": 2,
+            "originality": 1,
+            "overall_score": 1,
             "verdict": "reject"
          }
       },
@@ -494,10 +494,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -514,10 +514,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -530,10 +530,10 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -550,10 +550,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       }
    ],
@@ -572,10 +572,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 7,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -592,9 +592,9 @@
             ]
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 3,
-            "overall_score": 3.5,
+            "creativity": 2,
+            "originality": 1,
+            "overall_score": 1,
             "verdict": "reject"
          }
       },
@@ -612,9 +612,9 @@
             ]
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 3,
-            "overall_score": 3.5,
+            "creativity": 2,
+            "originality": 2,
+            "overall_score": 2,
             "verdict": "reject"
          }
       },
@@ -628,9 +628,9 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 2,
-            "overall_score": 3,
+            "creativity": 2,
+            "originality": 1,
+            "overall_score": 1,
             "verdict": "reject"
          }
       },
@@ -648,10 +648,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -664,10 +664,10 @@
             "PP": 8
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -680,10 +680,10 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -696,10 +696,10 @@
             "PP": 10
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -716,9 +716,9 @@
             ]
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 3,
-            "overall_score": 3.5,
+            "creativity": 2,
+            "originality": 2,
+            "overall_score": 2,
             "verdict": "reject"
          }
       },
@@ -732,41 +732,9 @@
             "PP": 10
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
-         }
-      },
-      {
-         "move": {
-            "name": "Spectral Drain",
-            "power": 75,
-            "accuracy": 90,
-            "type": "Ghost",
-            "category": "Special",
-            "PP": 20
-         },
-         "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
-         }
-      },
-      {
-         "move": {
-            "name": "Rage Pound",
-            "power": 95,
-            "accuracy": 75,
-            "type": "Fighting",
-            "category": "Physical",
-            "PP": 10
-         },
-         "evaluation": {
-            "creativity": 4,
-            "originality": 3,
-            "overall_score": 3.5,
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
             "verdict": "reject"
          }
       },
@@ -780,10 +748,42 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Rage Pound",
+            "power": 95,
+            "accuracy": 75,
+            "type": "Fighting",
+            "category": "Physical",
+            "PP": 10
+         },
+         "evaluation": {
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Drain",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -796,10 +796,10 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -812,10 +812,10 @@
             "PP": 10
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -832,9 +832,9 @@
             ]
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 3,
-            "overall_score": 3.5,
+            "creativity": 2,
+            "originality": 1,
+            "overall_score": 1,
             "verdict": "reject"
          }
       },
@@ -852,10 +852,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -868,10 +868,10 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -884,10 +884,10 @@
             "PP": 10
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 4,
-            "overall_score": 5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -900,10 +900,10 @@
             "PP": 10
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -916,10 +916,10 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -936,10 +936,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -952,10 +952,10 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -968,10 +968,10 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -988,10 +988,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 7,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4,
+            "verdict": "revise"
          }
       },
       {
@@ -1004,10 +1004,10 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1024,10 +1024,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1044,9 +1044,9 @@
             ]
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 3,
-            "overall_score": 3.5,
+            "creativity": 2,
+            "originality": 1,
+            "overall_score": 1,
             "verdict": "reject"
          }
       },
@@ -1060,9 +1060,9 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 3,
-            "overall_score": 3.5,
+            "creativity": 2,
+            "originality": 2,
+            "overall_score": 2,
             "verdict": "reject"
          }
       },
@@ -1080,10 +1080,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       }
    ],
@@ -1102,10 +1102,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1122,10 +1122,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1142,10 +1142,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1162,10 +1162,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1182,10 +1182,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1202,10 +1202,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1222,10 +1222,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 7,
-            "originality": 6,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5,
+            "verdict": "revise"
          }
       },
       {
@@ -1242,10 +1242,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1262,10 +1262,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1282,10 +1282,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 7,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1304,7 +1304,7 @@
          "evaluation": {
             "creativity": 6,
             "originality": 5,
-            "overall_score": 5.5,
+            "overall_score": 5,
             "verdict": "revise"
          }
       },
@@ -1322,10 +1322,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1342,8 +1342,8 @@
             ]
          },
          "evaluation": {
-            "creativity": 7,
-            "originality": 6,
+            "creativity": 6,
+            "originality": 7,
             "overall_score": 6.5,
             "verdict": "approve"
          }
@@ -1362,9 +1362,9 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4,
             "verdict": "revise"
          }
       },
@@ -1382,9 +1382,9 @@
             ]
          },
          "evaluation": {
-            "creativity": 4,
+            "creativity": 3,
             "originality": 2,
-            "overall_score": 3,
+            "overall_score": 2,
             "verdict": "reject"
          }
       },
@@ -1402,10 +1402,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 7,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1422,10 +1422,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 7,
-            "originality": 6,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4,
+            "verdict": "revise"
          }
       },
       {
@@ -1444,7 +1444,7 @@
          "evaluation": {
             "creativity": 6,
             "originality": 5,
-            "overall_score": 5.5,
+            "overall_score": 5,
             "verdict": "revise"
          }
       },
@@ -1462,10 +1462,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 7,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1482,10 +1482,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1504,7 +1504,7 @@
          "evaluation": {
             "creativity": 7,
             "originality": 6,
-            "overall_score": 6.5,
+            "overall_score": 6,
             "verdict": "approve"
          }
       },
@@ -1522,10 +1522,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1542,9 +1542,9 @@
             ]
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 3,
-            "overall_score": 3,
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
             "verdict": "reject"
          }
       },
@@ -1562,10 +1562,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 7,
-            "originality": 6,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5,
+            "verdict": "revise"
          }
       },
       {
@@ -1582,10 +1582,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1602,10 +1602,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 7,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 3,
+            "originality": 4,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1622,10 +1622,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1642,10 +1642,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1662,9 +1662,9 @@
             ]
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 3,
-            "overall_score": 3.5,
+            "creativity": 2,
+            "originality": 2,
+            "overall_score": 2,
             "verdict": "reject"
          }
       },
@@ -1682,10 +1682,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 7,
-            "originality": 6,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5,
+            "verdict": "revise"
          }
       }
    ],
@@ -1704,10 +1704,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 7,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1724,10 +1724,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1744,10 +1744,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1764,10 +1764,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 3,
-            "overall_score": 4,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1784,10 +1784,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1800,10 +1800,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1820,10 +1820,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1836,10 +1836,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 3,
-            "overall_score": 4,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1856,10 +1856,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1872,10 +1872,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -1892,10 +1892,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1908,10 +1908,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1928,10 +1928,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1948,10 +1948,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 7,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4,
+            "verdict": "revise"
          }
       },
       {
@@ -1964,10 +1964,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -1984,10 +1984,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2004,10 +2004,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 7,
-            "originality": 6,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2020,9 +2020,9 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 3,
-            "overall_score": 3.5,
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
             "verdict": "reject"
          }
       },
@@ -2036,10 +2036,10 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2052,9 +2052,9 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 2,
-            "overall_score": 3,
+            "creativity": 2,
+            "originality": 1,
+            "overall_score": 1,
             "verdict": "reject"
          }
       },
@@ -2072,10 +2072,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2092,9 +2092,9 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4,
             "verdict": "revise"
          }
       },
@@ -2108,10 +2108,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2128,10 +2128,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2148,10 +2148,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 4,
-            "overall_score": 5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2164,10 +2164,10 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2184,10 +2184,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2204,10 +2204,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2220,10 +2220,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2240,10 +2240,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       }
    ],
@@ -2262,10 +2262,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2282,10 +2282,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2302,10 +2302,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2322,10 +2322,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2342,10 +2342,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2358,10 +2358,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2378,10 +2378,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 7,
-            "originality": 6,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2398,10 +2398,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 4,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2418,10 +2418,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2438,9 +2438,9 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
             "verdict": "revise"
          }
       },
@@ -2458,10 +2458,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2474,10 +2474,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2490,10 +2490,10 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 7,
-            "originality": 6,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4,
+            "verdict": "revise"
          }
       },
       {
@@ -2510,10 +2510,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 7,
-            "originality": 6,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2530,10 +2530,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 6,
-            "overall_score": 6,
-            "verdict": "approve"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2550,10 +2550,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2570,10 +2570,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 4,
-            "overall_score": 4.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2590,10 +2590,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2610,10 +2610,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 5,
-            "originality": 6,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2630,10 +2630,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 7,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2652,7 +2652,7 @@
          "evaluation": {
             "creativity": 6,
             "originality": 5,
-            "overall_score": 5.5,
+            "overall_score": 5,
             "verdict": "revise"
          }
       },
@@ -2670,10 +2670,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2690,10 +2690,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2710,10 +2710,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       },
       {
@@ -2730,10 +2730,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 7,
-            "originality": 6,
-            "overall_score": 6.5,
-            "verdict": "approve"
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4,
+            "verdict": "revise"
          }
       },
       {
@@ -2746,10 +2746,10 @@
             "PP": 20
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2766,10 +2766,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2786,10 +2786,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
          }
       },
       {
@@ -2802,9 +2802,9 @@
             "PP": 15
          },
          "evaluation": {
-            "creativity": 4,
-            "originality": 3,
-            "overall_score": 3.5,
+            "creativity": 2,
+            "originality": 1,
+            "overall_score": 1,
             "verdict": "reject"
          }
       },
@@ -2822,10 +2822,10 @@
             ]
          },
          "evaluation": {
-            "creativity": 6,
-            "originality": 5,
-            "overall_score": 5.5,
-            "verdict": "revise"
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
          }
       }
    ]

@@ -52,7 +52,9 @@ Score interpretation:
  
 Do NOT cluster scores around the middle. 
 A score of 5 is not “safe” — it means the move is only average.
-
+Take a firm stance on each move's merits and flaws.Give extremely high and low scores when deserved.
+DON'T GRADE EVERY MOVE IN A VERY TIGHT RANGE, TRY TO USE THE RANGE OF 10 TO DISTINGUISH BETWEEN MOVES STARKLY.
+IT WON'T BE CONSIDERED A GOOD EVALUATOIN IF ALL THE SCORES LIE TOGETHER.
 Evaluation categories:
 1. Creativity (0–10)
 2. Originality (0–10)
@@ -61,6 +63,7 @@ Evaluation categories:
  Examples:
 - Tackle → Creativity 1, Originality 1
 - Flamethrower → Creativity 4, Originality 4,
+- A move apart from generic moves with great synergy with the pokemon and effect -> Creativity 6-7, Originality 6-7
 - A highly inventive fan-made move → Creativity 8–9, Originality 8–9
 Verdict:
 - "approve" (good)
