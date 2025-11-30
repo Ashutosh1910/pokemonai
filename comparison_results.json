@@ -1,0 +1,52 @@
+{
+  "Google Gemini 2.5 Flash": {
+    "total_moves": 1,
+    "valid_moves": 1,
+    "valid_percentage": 100.0,
+    "balanced_moves": 1,
+    "balanced_percentage": 100.0,
+    "avg_balance_score": 70.0,
+    "total_violations": 0,
+    "total_warnings": 0
+  },
+  "Anthropic Claude": {
+    "total_moves": 1,
+    "valid_moves": 1,
+    "valid_percentage": 100.0,
+    "balanced_moves": 1,
+    "balanced_percentage": 100.0,
+    "avg_balance_score": 80.0,
+    "total_violations": 0,
+    "total_warnings": 0
+  },
+  "OpenAI GPT-5 Mini": {
+    "total_moves": 1,
+    "valid_moves": 1,
+    "valid_percentage": 100.0,
+    "balanced_moves": 1,
+    "balanced_percentage": 100.0,
+    "avg_balance_score": 70.0,
+    "total_violations": 0,
+    "total_warnings": 0
+  },
+  "DEEPSEEK Chat V3": {
+    "total_moves": 1,
+    "valid_moves": 1,
+    "valid_percentage": 100.0,
+    "balanced_moves": 0,
+    "balanced_percentage": 0.0,
+    "avg_balance_score": 50.0,
+    "total_violations": 0,
+    "total_warnings": 0
+  },
+  "Grok 4 Fast": {
+    "total_moves": 1,
+    "valid_moves": 1,
+    "valid_percentage": 100.0,
+    "balanced_moves": 1,
+    "balanced_percentage": 100.0,
+    "avg_balance_score": 70.0,
+    "total_violations": 0,
+    "total_warnings": 0
+  }
+}

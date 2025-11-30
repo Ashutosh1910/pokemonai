@@ -1,0 +1,37 @@
+{
+   "Google Gemini 2.5 Flash": {
+      "prompt_tokens": 21740,
+      "completion_tokens": 61774,
+      "total_tokens": 83514,
+      "latency_seconds": 317.54281306266785,
+      "no_of_calls": 30
+   },
+   "Anthropic Claude": {
+      "prompt_tokens": 23512,
+      "completion_tokens": 8337,
+      "total_tokens": 31849,
+      "latency_seconds": 68.30130505561829,
+      "no_of_calls": 30
+   },
+   "OpenAI GPT-5 Mini": {
+      "prompt_tokens": 19800,
+      "completion_tokens": 87540,
+      "total_tokens": 107340,
+      "latency_seconds": 1299.7254655361176,
+      "no_of_calls": 30
+   },
+   "DEEPSEEK Chat V3": {
+      "prompt_tokens": 19780,
+      "completion_tokens": 7022,
+      "total_tokens": 26802,
+      "latency_seconds": 514.0292835235596,
+      "no_of_calls": 30
+   },
+   "Grok 4 Fast": {
+      "prompt_tokens": 23930,
+      "completion_tokens": 31191,
+      "total_tokens": 55121,
+      "latency_seconds": 244.5857584476471,
+      "no_of_calls": 30
+   }
+}

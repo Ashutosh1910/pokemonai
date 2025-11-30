@@ -1,0 +1,2832 @@
+{
+   "Google Gemini 2.5 Flash": [
+      {
+         "move": {
+            "name": "Venomous Coil",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Poison",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Static Dash",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Static Strike",
+            "power": 70,
+            "accuracy": 100,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Sprout Strike",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Grass",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 7,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Foxfire Flare",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Boulder Bash",
+            "power": 90,
+            "accuracy": 85,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 10
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3.5,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Phantom Gas",
+            "power": 70,
+            "accuracy": 95,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Burrowing Strike",
+            "power": 80,
+            "accuracy": 100,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Static Strike",
+            "power": 80,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Boulder Bash",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Phantom Smog",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Primal Punch",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Fighting",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Smog",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Serpentine Slam",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Dragon",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Aqua Stream",
+            "power": 70,
+            "accuracy": 95,
+            "type": "Water",
+            "category": "Special",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Static Charge Tackle",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Cinder Flicker",
+            "power": 80,
+            "accuracy": 100,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 7,
+            "originality": 6,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Sky Jab",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3.5,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Spiral Strike",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Water",
+            "category": "Physical",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Quicksand Trap",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Smog",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Coil Discharge",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Frenzied Lunge",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Gaseous Grasp",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 25,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 7,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Sap Shot",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Grass",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 7,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Quick Peck",
+            "power": 60,
+            "accuracy": 100,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 25
+         },
+         "evaluation": {
+            "creativity": 3,
+            "originality": 2,
+            "overall_score": 2,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Cinder Burst",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Static Dash",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Gnaw Rush",
+            "power": 70,
+            "accuracy": 100,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Cinder Shot",
+            "power": 65,
+            "accuracy": 100,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      }
+   ],
+   "Anthropic Claude": [
+      {
+         "move": {
+            "name": "Venom Coil",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Poison",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "poison",
+               25
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 7,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Thunderstrike Tackle",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               15
+            ]
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3.5,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Thunderstrike Tackle",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               25
+            ]
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3.5,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Vine Whip Strike",
+            "power": 80,
+            "accuracy": 85,
+            "type": "Grass",
+            "category": "Physical",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 2,
+            "overall_score": 3,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Ember Spiral",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Boulder Crash",
+            "power": 120,
+            "accuracy": 75,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 8
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Drain",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Burrow Strike",
+            "power": 95,
+            "accuracy": 75,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 10
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Thunderstrike Tackle",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               25
+            ]
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3.5,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Boulder Crash",
+            "power": 120,
+            "accuracy": 75,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 10
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Drain",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Rage Pound",
+            "power": 95,
+            "accuracy": 75,
+            "type": "Fighting",
+            "category": "Physical",
+            "PP": 10
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3.5,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Drain",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Coil Strike",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Dragon",
+            "category": "Physical",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Hydro Surge",
+            "power": 95,
+            "accuracy": 75,
+            "type": "Water",
+            "category": "Special",
+            "PP": 10
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Thunderstrike Tackle",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               15
+            ]
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3.5,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Ember Spiral",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Piercing Dive",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spiral Tackle",
+            "power": 95,
+            "accuracy": 75,
+            "type": "Water",
+            "category": "Physical",
+            "PP": 10
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 4,
+            "overall_score": 5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Burrow Strike",
+            "power": 95,
+            "accuracy": 75,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 10
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Drain",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Magnetic Pulse",
+            "power": 90,
+            "accuracy": 75,
+            "type": "Electric",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               25
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Gnaw Rush",
+            "power": 65,
+            "accuracy": 85,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Drain",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spore Burst",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Grass",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               25
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 7,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Feather Barrage",
+            "power": 65,
+            "accuracy": 85,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Ember Cascade",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               15
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Thunderstrike Tackle",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               15
+            ]
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3.5,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Gnaw Strike",
+            "power": 65,
+            "accuracy": 85,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3.5,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Ember Cascade",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      }
+   ],
+   "OpenAI GPT-5 Mini": [
+      {
+         "move": {
+            "name": "Serpent Strike",
+            "power": 90,
+            "accuracy": 80,
+            "type": "Poison",
+            "category": "Physical",
+            "PP": 10,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Static Pounce",
+            "power": 68,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Static Jab",
+            "power": 68,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Venom Vine",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Grass",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Tailflame",
+            "power": 68,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Granite Slam",
+            "power": 85,
+            "accuracy": 80,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 10,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Haunting Miasma",
+            "power": 85,
+            "accuracy": 80,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 7,
+            "originality": 6,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Dune Scourge",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Static Lunge",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Craghammer",
+            "power": 76,
+            "accuracy": 85,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 12,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 7,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Siphon",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Primate Pummel",
+            "power": 68,
+            "accuracy": 95,
+            "type": "Fighting",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Phantom Miasma",
+            "power": 95,
+            "accuracy": 80,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 10,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 7,
+            "originality": 6,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Coiling Strike",
+            "power": 72,
+            "accuracy": 90,
+            "type": "Dragon",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Shell Torrent",
+            "power": 68,
+            "accuracy": 90,
+            "type": "Water",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 2,
+            "overall_score": 3,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Cheek Charge",
+            "power": 72,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 7,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Foxflame Spiral",
+            "power": 78,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 7,
+            "originality": 6,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Barbed Skystrike",
+            "power": 90,
+            "accuracy": 80,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 10,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Ripple Slap",
+            "power": 60,
+            "accuracy": 95,
+            "type": "Water",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 7,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Dune Claw",
+            "power": 70,
+            "accuracy": 95,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Ectoplasmic Miasma",
+            "power": 95,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 10,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 7,
+            "originality": 6,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Magnet Surge",
+            "power": 76,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Rabid Nibble",
+            "power": 50,
+            "accuracy": 95,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 25,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Phantom Miasma",
+            "power": 80,
+            "accuracy": 95,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 7,
+            "originality": 6,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Verdant Torrent",
+            "power": 90,
+            "accuracy": 80,
+            "type": "Grass",
+            "category": "Special",
+            "PP": 10,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Feather Tingle",
+            "power": 54,
+            "accuracy": 95,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 25,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 7,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Searing Twirl",
+            "power": 77,
+            "accuracy": 90,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Static Strike",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Nimble Nibble",
+            "power": 50,
+            "accuracy": 100,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 25,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3.5,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Cinder Spiral",
+            "power": 90,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 7,
+            "originality": 6,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      }
+   ],
+   "DEEPSEEK Chat V3": [
+      {
+         "move": {
+            "name": "Venom Coil",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Poison",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 7,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Static Shock",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Static Slam",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Vine Whip Lash",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Grass",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 3,
+            "overall_score": 4,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Ember Flicker",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Rockfall Slam",
+            "power": 90,
+            "accuracy": 85,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Wail",
+            "power": 80,
+            "accuracy": 85,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Sand Claw Swipe",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 3,
+            "overall_score": 4,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Shock Tackle",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Rockfall Slam",
+            "power": 90,
+            "accuracy": 85,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Hex",
+            "power": 80,
+            "accuracy": 100,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Rage Fling",
+            "power": 90,
+            "accuracy": 85,
+            "type": "Fighting",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Hex",
+            "power": 80,
+            "accuracy": 100,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Dragon Coil",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Dragon",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 7,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Hydro Shell",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Water",
+            "category": "Special",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Static Slam",
+            "power": 80,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Foxfire Flicker",
+            "power": 70,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 7,
+            "originality": 6,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Gale Peck",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3.5,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Bubble Fist",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Water",
+            "category": "Physical",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Sand Claw",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 2,
+            "overall_score": 3,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Wail",
+            "power": 80,
+            "accuracy": 100,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Magnetic Surge",
+            "power": 80,
+            "accuracy": 100,
+            "type": "Electric",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Gnawing Frenzy",
+            "power": 80,
+            "accuracy": 85,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Wail",
+            "power": 80,
+            "accuracy": 85,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Toxic Pollen",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Grass",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 4,
+            "overall_score": 5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Feather Flurry",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Tail Flame Flicker",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Static Slam",
+            "power": 80,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Gnawing Frenzy",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Ember Swirl",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      }
+   ],
+   "Grok 4 Fast": [
+      {
+         "move": {
+            "name": "Serpent Lash",
+            "power": 65,
+            "accuracy": 90,
+            "type": "Poison",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spark Dash",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Thunder Pounce",
+            "power": 60,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Vine Lash",
+            "power": 70,
+            "accuracy": 95,
+            "type": "Grass",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Foxfire Glare",
+            "power": 60,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Boulder Crush",
+            "power": 85,
+            "accuracy": 90,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Phantom Chill",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 7,
+            "originality": 6,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Sand Lash",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spark Dash",
+            "power": 70,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Crag Crush",
+            "power": 85,
+            "accuracy": 90,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Ethereal Toxin",
+            "power": 70,
+            "accuracy": 95,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               25
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Rage Barrage",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Fighting",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Ethereal Wail",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 7,
+            "originality": 6,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Serpent Lash",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Dragon",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 7,
+            "originality": 6,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Shell Surge",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Water",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 6,
+            "overall_score": 6,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Spark Dash",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Ember Tail",
+            "power": 55,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 4,
+            "overall_score": 4.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Talon Dive",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Tail Surge",
+            "power": 55,
+            "accuracy": 95,
+            "type": "Water",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 5,
+            "originality": 6,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Dune Burrow",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 7,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Shroud",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Magnetic Surge",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               25
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Gnaw Frenzy",
+            "power": 60,
+            "accuracy": 95,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spectral Toxin",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               25
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Toxic Bloom",
+            "power": 70,
+            "accuracy": 85,
+            "type": "Grass",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 7,
+            "originality": 6,
+            "overall_score": 6.5,
+            "verdict": "approve"
+         }
+      },
+      {
+         "move": {
+            "name": "Feather Dart",
+            "power": 55,
+            "accuracy": 95,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 20
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Flame Whisper",
+            "power": 55,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Spark Tail",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      },
+      {
+         "move": {
+            "name": "Rodent Gnaw",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 15
+         },
+         "evaluation": {
+            "creativity": 4,
+            "originality": 3,
+            "overall_score": 3.5,
+            "verdict": "reject"
+         }
+      },
+      {
+         "move": {
+            "name": "Cinder Burst",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         },
+         "evaluation": {
+            "creativity": 6,
+            "originality": 5,
+            "overall_score": 5.5,
+            "verdict": "revise"
+         }
+      }
+   ]
+}

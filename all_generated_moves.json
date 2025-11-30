@@ -1,0 +1,1982 @@
+{
+   "run_1": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Venomous Coil",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Poison",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Venom Coil",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Poison",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "poison",
+               25
+            ]
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Serpent Strike",
+            "power": 90,
+            "accuracy": 80,
+            "type": "Poison",
+            "category": "Physical",
+            "PP": 10,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Venom Coil",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Poison",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Serpent Lash",
+            "power": 65,
+            "accuracy": 90,
+            "type": "Poison",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ]
+   },
+   "run_2": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Static Dash",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Thunderstrike Tackle",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               15
+            ]
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Static Pounce",
+            "power": 68,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Static Shock",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Spark Dash",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ]
+   },
+   "run_3": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Static Strike",
+            "power": 70,
+            "accuracy": 100,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Thunderstrike Tackle",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               25
+            ]
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Static Jab",
+            "power": 68,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Static Slam",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Thunder Pounce",
+            "power": 60,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ]
+   },
+   "run_4": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Sprout Strike",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Grass",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Vine Whip Strike",
+            "power": 80,
+            "accuracy": 85,
+            "type": "Grass",
+            "category": "Physical",
+            "PP": 20
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Venom Vine",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Grass",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Vine Whip Lash",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Grass",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Vine Lash",
+            "power": 70,
+            "accuracy": 95,
+            "type": "Grass",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ]
+   },
+   "run_5": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Foxfire Flare",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Ember Spiral",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Tailflame",
+            "power": 68,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Ember Flicker",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Foxfire Glare",
+            "power": 60,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ]
+   },
+   "run_6": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Boulder Bash",
+            "power": 90,
+            "accuracy": 85,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 10
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Boulder Crash",
+            "power": 120,
+            "accuracy": 75,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 8
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Granite Slam",
+            "power": 85,
+            "accuracy": 80,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 10,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Rockfall Slam",
+            "power": 90,
+            "accuracy": 85,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 15
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Boulder Crush",
+            "power": 85,
+            "accuracy": 90,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 15
+         }
+      ]
+   },
+   "run_7": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Phantom Gas",
+            "power": 70,
+            "accuracy": 95,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Spectral Drain",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Haunting Miasma",
+            "power": 85,
+            "accuracy": 80,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Spectral Wail",
+            "power": 80,
+            "accuracy": 85,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Phantom Chill",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ]
+   },
+   "run_8": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Burrowing Strike",
+            "power": 80,
+            "accuracy": 100,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 15
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Burrow Strike",
+            "power": 95,
+            "accuracy": 75,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 10
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Dune Scourge",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Sand Claw Swipe",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 15
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Sand Lash",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ]
+   },
+   "run_9": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Static Strike",
+            "power": 80,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Thunderstrike Tackle",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               25
+            ]
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Static Lunge",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Shock Tackle",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Spark Dash",
+            "power": 70,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ]
+   },
+   "run_10": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Boulder Bash",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 15
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Boulder Crash",
+            "power": 120,
+            "accuracy": 75,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 10
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Craghammer",
+            "power": 76,
+            "accuracy": 85,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 12,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Rockfall Slam",
+            "power": 90,
+            "accuracy": 85,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 15
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Crag Crush",
+            "power": 85,
+            "accuracy": 90,
+            "type": "Rock",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ]
+   },
+   "run_11": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Phantom Smog",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Spectral Drain",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Spectral Siphon",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Spectral Hex",
+            "power": 80,
+            "accuracy": 100,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Ethereal Toxin",
+            "power": 70,
+            "accuracy": 95,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               25
+            ]
+         }
+      ]
+   },
+   "run_12": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Primal Punch",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Fighting",
+            "category": "Physical",
+            "PP": 15
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Rage Pound",
+            "power": 95,
+            "accuracy": 75,
+            "type": "Fighting",
+            "category": "Physical",
+            "PP": 10
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Primate Pummel",
+            "power": 68,
+            "accuracy": 95,
+            "type": "Fighting",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Rage Fling",
+            "power": 90,
+            "accuracy": 85,
+            "type": "Fighting",
+            "category": "Physical",
+            "PP": 15
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Rage Barrage",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Fighting",
+            "category": "Physical",
+            "PP": 15
+         }
+      ]
+   },
+   "run_13": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Spectral Smog",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Spectral Drain",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Phantom Miasma",
+            "power": 95,
+            "accuracy": 80,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 10,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Spectral Hex",
+            "power": 80,
+            "accuracy": 100,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Ethereal Wail",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15
+         }
+      ]
+   },
+   "run_14": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Serpentine Slam",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Dragon",
+            "category": "Physical",
+            "PP": 15
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Coil Strike",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Dragon",
+            "category": "Physical",
+            "PP": 20
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Coiling Strike",
+            "power": 72,
+            "accuracy": 90,
+            "type": "Dragon",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Dragon Coil",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Dragon",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Serpent Lash",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Dragon",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ]
+   },
+   "run_15": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Aqua Stream",
+            "power": 70,
+            "accuracy": 95,
+            "type": "Water",
+            "category": "Special",
+            "PP": 20
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Hydro Surge",
+            "power": 95,
+            "accuracy": 75,
+            "type": "Water",
+            "category": "Special",
+            "PP": 10
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Shell Torrent",
+            "power": 68,
+            "accuracy": 90,
+            "type": "Water",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Hydro Shell",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Water",
+            "category": "Special",
+            "PP": 15
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Shell Surge",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Water",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ]
+   },
+   "run_16": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Static Charge Tackle",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Thunderstrike Tackle",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               15
+            ]
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Cheek Charge",
+            "power": 72,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Static Slam",
+            "power": 80,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Spark Dash",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ]
+   },
+   "run_17": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Cinder Flicker",
+            "power": 80,
+            "accuracy": 100,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Ember Spiral",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Foxflame Spiral",
+            "power": 78,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Foxfire Flicker",
+            "power": 70,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Ember Tail",
+            "power": 55,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ]
+   },
+   "run_18": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Sky Jab",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 15
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Piercing Dive",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 20
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Barbed Skystrike",
+            "power": 90,
+            "accuracy": 80,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 10,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Gale Peck",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 20
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Talon Dive",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ]
+   },
+   "run_19": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Spiral Strike",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Water",
+            "category": "Physical",
+            "PP": 20
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Spiral Tackle",
+            "power": 95,
+            "accuracy": 75,
+            "type": "Water",
+            "category": "Physical",
+            "PP": 10
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Ripple Slap",
+            "power": 60,
+            "accuracy": 95,
+            "type": "Water",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Bubble Fist",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Water",
+            "category": "Physical",
+            "PP": 20
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Tail Surge",
+            "power": 55,
+            "accuracy": 95,
+            "type": "Water",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ]
+   },
+   "run_20": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Quicksand Trap",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 15
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Burrow Strike",
+            "power": 95,
+            "accuracy": 75,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 10
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Dune Claw",
+            "power": 70,
+            "accuracy": 95,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Sand Claw",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 15
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Dune Burrow",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ground",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ]
+   },
+   "run_21": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Spectral Smog",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Spectral Drain",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Ectoplasmic Miasma",
+            "power": 95,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 10,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Spectral Wail",
+            "power": 80,
+            "accuracy": 100,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Spectral Shroud",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ]
+   },
+   "run_22": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Coil Discharge",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Magnetic Pulse",
+            "power": 90,
+            "accuracy": 75,
+            "type": "Electric",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               25
+            ]
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Magnet Surge",
+            "power": 76,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Magnetic Surge",
+            "power": 80,
+            "accuracy": 100,
+            "type": "Electric",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Magnetic Surge",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Electric",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               25
+            ]
+         }
+      ]
+   },
+   "run_23": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Frenzied Lunge",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Gnaw Rush",
+            "power": 65,
+            "accuracy": 85,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 20
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Rabid Nibble",
+            "power": 50,
+            "accuracy": 95,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 25,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Gnawing Frenzy",
+            "power": 80,
+            "accuracy": 85,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 15
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Gnaw Frenzy",
+            "power": 60,
+            "accuracy": 95,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ]
+   },
+   "run_24": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Gaseous Grasp",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 25,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Spectral Drain",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Phantom Miasma",
+            "power": 80,
+            "accuracy": 95,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Spectral Wail",
+            "power": 80,
+            "accuracy": 85,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Spectral Toxin",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Ghost",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               25
+            ]
+         }
+      ]
+   },
+   "run_25": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Sap Shot",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Grass",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Spore Burst",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Grass",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               25
+            ]
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Verdant Torrent",
+            "power": 90,
+            "accuracy": 80,
+            "type": "Grass",
+            "category": "Special",
+            "PP": 10,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Toxic Pollen",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Grass",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Toxic Bloom",
+            "power": 70,
+            "accuracy": 85,
+            "type": "Grass",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ]
+   },
+   "run_26": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Quick Peck",
+            "power": 60,
+            "accuracy": 100,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 25
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Feather Barrage",
+            "power": 65,
+            "accuracy": 85,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 20
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Feather Tingle",
+            "power": 54,
+            "accuracy": 95,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 25,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Feather Flurry",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 20
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Feather Dart",
+            "power": 55,
+            "accuracy": 95,
+            "type": "Flying",
+            "category": "Physical",
+            "PP": 20
+         }
+      ]
+   },
+   "run_27": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Cinder Burst",
+            "power": 75,
+            "accuracy": 90,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Ember Cascade",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               15
+            ]
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Searing Twirl",
+            "power": 77,
+            "accuracy": 90,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Tail Flame Flicker",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Flame Whisper",
+            "power": 55,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ]
+   },
+   "run_28": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Static Dash",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Thunderstrike Tackle",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               15
+            ]
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Static Strike",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Static Slam",
+            "power": 80,
+            "accuracy": 85,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 15,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Spark Tail",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Electric",
+            "category": "Physical",
+            "PP": 20,
+            "effect": [
+               "paralyze",
+               20
+            ]
+         }
+      ]
+   },
+   "run_29": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Gnaw Rush",
+            "power": 70,
+            "accuracy": 100,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 20
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Gnaw Strike",
+            "power": 65,
+            "accuracy": 85,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 20
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Nimble Nibble",
+            "power": 50,
+            "accuracy": 100,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 25,
+            "effect": [
+               "poison",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Gnawing Frenzy",
+            "power": 80,
+            "accuracy": 90,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 15
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Rodent Gnaw",
+            "power": 70,
+            "accuracy": 90,
+            "type": "Normal",
+            "category": "Physical",
+            "PP": 15
+         }
+      ]
+   },
+   "run_30": {
+      "Google Gemini 2.5 Flash": [
+         {
+            "name": "Cinder Shot",
+            "power": 65,
+            "accuracy": 100,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "Anthropic Claude": [
+         {
+            "name": "Ember Cascade",
+            "power": 75,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "OpenAI GPT-5 Mini": [
+         {
+            "name": "Cinder Spiral",
+            "power": 90,
+            "accuracy": 85,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "DEEPSEEK Chat V3": [
+         {
+            "name": "Ember Swirl",
+            "power": 75,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 15,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ],
+      "Grok 4 Fast": [
+         {
+            "name": "Cinder Burst",
+            "power": 65,
+            "accuracy": 95,
+            "type": "Fire",
+            "category": "Special",
+            "PP": 20,
+            "effect": [
+               "burn",
+               20
+            ]
+         }
+      ]
+   }
+}
